@@ -1,4 +1,4 @@
-<h3 align="center">Hire a BlackSwan Now!</h3>
+<h3 align="center"><strong>Hire a BlackSwan Now!</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackswancorp&label=Profile%20views&color=0e75b6&style=flat" alt="blackswancorp" /> </p>
 
