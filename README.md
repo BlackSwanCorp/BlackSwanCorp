@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackswancorp&label=Profile%20views&color=0e75b6&style=flat" alt="blackswancorp" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="hack" width="400" src="https://33.media.tumblr.com/9cebcec899889b81f2adea7b5486fdbb/tumblr_ne8fbcYjVR1ru5h8co1_500.gif">
+
 <p align="left">
 </p>
 
