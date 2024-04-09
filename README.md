@@ -17,6 +17,6 @@
   
   Plans:
   PenTestingHome -> $460
-  PenTestingBusiness -> 1960
+  PenTestingBusiness -> $1960
   IT Security Calls -> $300 
 </p>
