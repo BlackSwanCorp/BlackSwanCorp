@@ -19,4 +19,8 @@
   PenTestingHome -> $460
   PenTestingBusiness -> $1960
   IT Security Calls -> $300 
+
+  Policy:
+  To protect the workers after the work is done and tested for, BlackSwan GOV does not accept refunds or returns of any equipment or payment made from the client.
+  
 </p>
