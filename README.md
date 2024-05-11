@@ -21,6 +21,6 @@
   IT Security Calls -> $300 
 
   Policy:
-  To protect the workers after the work is done and tested for, BlackSwan GOV does not accept refunds or returns of any equipment or payment made from the client.
+  BlackSwanCorp prioritizes security and integrity in its services. Not offering returns or refunds after the job has been completed and tested reflects a commitment to maintaining the confidentiality and safety of both the company and its workers. This policy helps ensure that once the work is done, there's no risk of compromising security by reversing or   undoing it. It also underscores the importance of thorough testing and quality assurance before finalizing any projects.
   
 </p>
